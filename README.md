@@ -7,6 +7,7 @@
 - 🥅 2020 Goals: Build a portfolio, strenthen that with projects and publish that to live.
 - ⚡ Fun fact: I love to read books, cycling and travelling
 
+I had been working on business application services focusing sports and membership associations for more than one year. I have developed my skills working with repository pattern solutions, custom made JavaScript framework, sql operations and reports. I am looking forward to working with more .net technologies and JavaScript, typescript, angular etc.
 ### Connect with me:
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
@@ -65,16 +66,16 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-<!--[website]: https://codeSTACKr.com-->
+[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/imtiaj__ahammad
 [youtube]: https://youtube.com/channel/UCqeQjYOsr6YH2sAkjsAr0DQ
 [instagram]: https://instagram.com/imtiaj_ahammad_
 [linkedin]: https://linkedin.com/in/imtiaj-ahammad-2175a3130
-<!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
--->
+
 
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
