@@ -38,6 +38,26 @@ I had been working on business application services focusing sports and membersh
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 [<img align="left" alt="C#" width="26px" src="https://image.flaticon.com/icons/svg/74/74906.svg" />][website]
+[<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/919/919854.svg" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://image.flaticon.com/icons/svg/2721/2721272.svg" />][website]
+[<img align="left" alt="typeScript" width="26px" src="https://image.flaticon.com/icons/svg/919/919832.svg" />][website]
+[<img align="left" alt="Bootstrap" width="26px" src="https://image.flaticon.com/icons/svg/1348/1348026.svg" />][website]
+[<img align="left" alt="JQuery" width="26px" src="https://as1.ftcdn.net/jpg/02/59/06/74/500_F_259067428_EoYAUSn6a2yhrYiT8bgUPFgrISRVsBMx.jpg" />][website]
+[<img align="left" alt="ajax" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183639.svg" />][website]
+[<img align="left" alt="Aspnet" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/ASP.Net-512.png" />][website]
+[<img align="left" alt="Aspnet" width="26px" src="https://cdn.imgbin.com/19/15/15/imgbin-net-framework-software-framework-c-microsoft-asp-net-microsoft-rXu9e3FeNF0FzyYSPMJuimrkf.jpg" />][website]
+[<img align="left" alt="Aspx" width="26px" src="https://image.flaticon.com/icons/svg/29/29542.svg" />][website]
+[<img align="left" alt="adonet" width="26px" src="https://vignette.wikia.nocookie.net/windows/images/4/49/Adonet-300x225.png" />][website]
+[<img align="left" alt="angular" width="26px" src="https://icon-library.com/images/angularjs-icon/angularjs-icon-4.jpg" />][website]
+[<img align="left" alt="angular" width="26px" src="https://icon-library.com/images/angularjs-icon/angularjs-icon-24.jpg" />][website]
+[<img align="left" alt="sql" width="26px" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-sql-file-document-icon-png-image_4176851.jpg" />][website]
+[<img align="left" alt="mysql" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />][website]
+[<img align="left" alt="vs" width="26px" src="https://image.flaticon.com/icons/svg/906/906324.svg" />][website]
+[<img align="left" alt="windows" width="26px" src="https://networkencyclopedia.com/wp-content/uploads/2019/09/microsoft-windows-os-1.jpg" />][website]
+[<img align="left" alt="linux" width="26px" src="https://i.pinimg.com/originals/ea/9f/db/ea9fdbd5cd806a1164e71280a932ee86.jpg" />][website]
+
+
+
 <br />
 <br />
 
@@ -65,7 +85,7 @@ I had been working on business application services focusing sports and membersh
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="imtiaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imtiajahammad&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/imtiajahammad
 [twitter]: https://twitter.com/imtiaj__ahammad
