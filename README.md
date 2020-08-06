@@ -108,11 +108,11 @@ I had been working on business application services focusing sports and membersh
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [ArticleHelper](https://www.youtube.com/watch?v=-L-hw7utgD4)
+- [ArticleHelper](https://www.youtube.com/watch?v=mLmYaJQQ0N0)
+- [How to make a windows calculator in C#/DotNet in Bangla](https://www.youtube.com/watch?v=SAlKeU2anJg)
+- [Circular Detection](https://www.youtube.com/watch?v=LfOLxvuNo0A)
+- [MVC Introduction](https://www.youtube.com/watch?v=_lho10uGvy4)
 <!-- YOUTUBE:END -->
 
 ---
