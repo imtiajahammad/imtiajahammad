@@ -40,8 +40,9 @@ I had been working on business application services focusing sports and membersh
 ]-->
 <!--[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]-->
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+<!---
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-
+-->
 <!--[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website] 
 ]-->
 <!--[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]-->
@@ -80,9 +81,12 @@ I had been working on business application services focusing sports and membersh
 [<img align="left" alt="sql" width="26px" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-sql-file-document-icon-png-image_4176851.jpg" />][website]
 [<img align="left" alt="mysql" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />][website]
 [<img align="left" alt="vs" width="26px" src="https://image.flaticon.com/icons/svg/906/906324.svg" />][website]
+<!---
 [<img align="left" alt="windows" width="26px" src="https://networkencyclopedia.com/wp-content/uploads/2019/09/microsoft-windows-os-1.jpg" />][website]
+-->
+<!---
 [<img align="left" alt="linux" width="26px" src="https://i.pinimg.com/originals/ea/9f/db/ea9fdbd5cd806a1164e71280a932ee86.jpg" />][website]
-
+-->
 
 
 <br />
